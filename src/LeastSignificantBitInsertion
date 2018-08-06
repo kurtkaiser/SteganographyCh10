@@ -3,6 +3,7 @@ Kurt Kaiser
 CTIM 168
 07.28.2018
 Homework: Steganography
+Least Significant Bit Insertion
  */
 
 import java.io.*;
